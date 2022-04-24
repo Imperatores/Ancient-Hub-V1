@@ -1,5 +1,5 @@
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Ancient Hub V1", "Serpent")
+    local Window = Library.CreateLib("Ancient Hub V1", "Midnight")
 
     -- MAIN
     local Main = Window:NewTab("Main")
